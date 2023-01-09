@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:<br><br>
-
-<img src="https://user-images.githubusercontent.com/80881226/211311525-448d99e2-0c2e-448b-8cf6-efd4eefcca9c.jpg" width="200" height="250" /><br>
+# 💫 About Me:<br>
+<img src="https://user-images.githubusercontent.com/80881226/211311525-448d99e2-0c2e-448b-8cf6-efd4eefcca9c.jpg" width="200" height="280" /><br>
 Hi. I'm Pitchanat Kanjanajitti. <br>I have completed my bachelor's degree at <br>King Mongkut's University of Technology Thonburi in computer engineering.<br><br>
 <!-- ![](https://user-images.githubusercontent.com/80881226/211311525-448d99e2-0c2e-448b-8cf6-efd4eefcca9c.jpg =250x250)-->
 
