@@ -20,7 +20,7 @@ Hi. I'm Pitchanat Kanjanajitti. <br>I have completed my bachelor's degree at <br
 <!-- ![](https://user-images.githubusercontent.com/80881226/211311525-448d99e2-0c2e-448b-8cf6-efd4eefcca9c.jpg =250x250)-->
 
 <h3>Experience:</h3> - Student Registration localhost website <br> <p style="font-size:20px">
- (https://mailkmuttacth-my.sharepoint.com/:u:/g/personal/pitchanat_kan_mail_kmutt_ac_th/EWgkoO8asE5LojBUMqJfPqYBfDKvClHDOduonG3lbWuLMg?e=pnJ712)
+
 
 
 
