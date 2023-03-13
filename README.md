@@ -15,16 +15,16 @@
 - **🏆 Experience**  
   
 
- &nbsp &nbsp &nbsp 📝 Student Registration website. (https://github.com/nongporloris/StudentRegistration)  
+      📝 Student Registration website. (https://github.com/nongporloris/StudentRegistration)  
   
 
- &nbsp &nbsp &nbsp 📝 Convert data for used with SolidWork api program. (https://github.com/nongporloris/C-.netSolidworkapi)  
+      📝 Convert data for used with SolidWork api program. (https://github.com/nongporloris/C-.netSolidworkapi)  
   
 
- &nbsp &nbsp &nbsp 📝 FoodGook Application. (https://github.com/nongporloris/FinalFoodGook)  
+      📝 FoodGook Application. (https://github.com/nongporloris/FinalFoodGook)  
   
 
- &nbsp &nbsp &nbsp 📝 SmartBrain face detection website. (https://github.com/nongporloris/faceRecognition)  
+      📝 SmartBrain face detection website. (https://github.com/nongporloris/faceRecognition)  
   
 
 <br/>  
