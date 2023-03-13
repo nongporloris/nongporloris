@@ -89,9 +89,6 @@
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=nongporloris&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTlmMWFhNmFiMmUzZmJlYjMxNzhhNGY5YmQ1YmIyZDA4YTUzNWQwZiZjdD1n/mTPjPA6SSXgTsnZ1Dh/giphy.gif" align="right" style="width: 50%" />
 <br/>  
 
-<div align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTlmMWFhNmFiMmUzZmJlYjMxNzhhNGY5YmQ1YmIyZDA4YTUzNWQwZiZjdD1n/mTPjPA6SSXgTsnZ1Dh/giphy.gif" align="right" style="width: 50%" />
-  </div>
