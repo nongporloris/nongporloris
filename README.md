@@ -93,7 +93,5 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<div align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTlmMWFhNmFiMmUzZmJlYjMxNzhhNGY5YmQ1YmIyZDA4YTUzNWQwZiZjdD1n/mTPjPA6SSXgTsnZ1Dh/giphy.gif" align="center" style="width: 50%" />
-</div>  
+  
