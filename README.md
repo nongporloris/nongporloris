@@ -24,7 +24,12 @@
     📝 FoodGook Application. (https://github.com/nongporloris/FinalFoodGook)  
   
 
-    📝 SmartBrain face detection website. (https://github.com/nongporloris/faceRecognition)  
+    📝 SmartBrain face detection website. (https://github.com/nongporloris/faceRecognition)
+    
+    
+    📝 SmartBrain face detection website (Deployment version).
+    
+        (https://pcn-smart-brain-backend.onrender.com) && (https://pcn-smartbrain.netlify.app)
   
 
 <br/>  
