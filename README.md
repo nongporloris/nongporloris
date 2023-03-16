@@ -29,7 +29,7 @@
     
     📝 SmartBrain face detection website (Deployment version).
     
-        (https://pcn-smart-brain-backend.onrender.com) && (https://pcn-smartbrain.netlify.app)
+    (https://pcn-smart-brain-backend.onrender.com) && (https://pcn-smartbrain.netlify.app)
   
 
 <br/>  
